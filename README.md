@@ -7,11 +7,11 @@ A Node.js JSON Stringify Transform Stream module.
 
 ```js
 var Readable = require('stream').Readable;
-var readObj = Readable({objectMode: true});
-readObj.push({age: 23, address: 'china'});
-readObj.push(null);
+var rs = Readable({objectMode: true});
+rs.push({age: 23, address: 'china'});
+rs.push(null);
 
-readObj.pipe(StringifyStream()).pipe(process.stdout);
+rs.pipe(StringifyStream()).pipe(process.stdout);
 ```  
 
 ## License 
