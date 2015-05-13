@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/hussion/stringifyStream",
   "devDependencies": {
-    "coveralls": "^2.11.2",
-    "istanbul": "^0.3.14",
+    "coveralls": "*",
+    "istanbul": "*",
     "mocha": "*",
-    "mocha-lcov-reporter": "0.0.2",
+    "mocha-lcov-reporter": "*",
     "should": "*"
   }
 }
