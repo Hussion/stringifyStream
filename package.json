@@ -1,0 +1,30 @@
+{
+  "name": "stringifyStream",
+  "version": "1.0.0",
+  "description": "A Node.js JSON Stringify Transform Stream module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hussion/stringifyStream.git"
+  },
+  "keywords": [
+    "node.js",
+    "JSON",
+    "stringify",
+    "transform",
+    "stream"
+  ],
+  "author": "hussion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hussion/stringifyStream/issues"
+  },
+  "homepage": "https://github.com/hussion/stringifyStream",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
