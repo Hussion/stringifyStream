@@ -1,5 +1,6 @@
 # stringifyStream  
 ![Build Status](https://travis-ci.org/hussion/stringifyStream.svg?branch=master)  
+![Coverage Status](https://coveralls.io/repos/hussion/stringifyStream/badge.svg)
 ### 
 A Node.js JSON Stringify Transform Stream module.
 
