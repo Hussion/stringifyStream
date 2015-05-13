@@ -3,7 +3,7 @@
 ### 
 A Node.js JSON Stringify Transform Stream module.
 
-# Usaga
+# Usage
 
 ```js
 var Readable = require('stream').Readable;
