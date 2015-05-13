@@ -1,5 +1,5 @@
 {
-  "name": "stringifyStream",
+  "name": "stringifystream",
   "version": "1.0.0",
   "description": "A Node.js JSON Stringify Transform Stream module.",
   "main": "index.js",
