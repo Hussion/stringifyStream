@@ -2,6 +2,7 @@
 ![Build Status](https://travis-ci.org/hussion/stringifyStream.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/hussion/stringifyStream/badge.svg?branch=master)](https://coveralls.io/r/hussion/stringifyStream?branch=master)
 [![Dependency Status](https://gemnasium.com/hussion/stringifyStream.svg)](https://gemnasium.com/hussion/stringifyStream)
+[![npm version](https://badge.fury.io/js/stringifystream.svg)](http://badge.fury.io/js/stringifystream)
 ### 
 A Node.js JSON Stringify Transform Stream module.
 
