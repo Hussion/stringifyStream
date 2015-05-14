@@ -6,9 +6,14 @@
 ### 
 A Node.js JSON Stringify Transform Stream module.
 
+# Install
+
+npm install stringifystream
+
 # Usage
 
 ```js
+var StringifyStream = require('stringifystream');
 var Readable = require('stream').Readable;
 var rs = Readable({objectMode: true});
 rs.push({age: 23, address: 'china'});
