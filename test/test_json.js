@@ -11,5 +11,12 @@ describe('test/test_json.js', function () {
     rs.push(null);
     rs.pipe(StringifyStream()).pipe(process.stdout);
   });
+  it('should throw error.', function() {
+  	(function() {
+	    rs.push(Date);
+	    rs.push(null);
+	    rs.pipe(StringifyStream()).pipe(process.stdout);
+  	}).should.throw(Error);
+  });
 });
 
