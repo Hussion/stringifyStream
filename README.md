@@ -8,7 +8,9 @@ A Node.js JSON Stringify Transform Stream module.
 
 # Install
 
+```js
 npm install stringifystream
+```
 
 # Usage
 
