@@ -3,6 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/hussion/stringifyStream/badge.svg?branch=master)](https://coveralls.io/r/hussion/stringifyStream?branch=master)
 [![Dependency Status](https://gemnasium.com/hussion/stringifyStream.svg)](https://gemnasium.com/hussion/stringifyStream)
 [![npm version](https://badge.fury.io/js/stringifystream.svg)](http://badge.fury.io/js/stringifystream)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hussion/stringifyStream?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ### 
 A Node.js JSON Stringify Transform Stream module.
 
