@@ -1,4 +1,6 @@
 # stringifyStream  
+
+[![Join the chat at https://gitter.im/hussion/stringifyStream](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hussion/stringifyStream?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Build Status](https://travis-ci.org/hussion/stringifyStream.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/hussion/stringifyStream/badge.svg?branch=master)](https://coveralls.io/r/hussion/stringifyStream?branch=master)
 [![Dependency Status](https://gemnasium.com/hussion/stringifyStream.svg)](https://gemnasium.com/hussion/stringifyStream)
